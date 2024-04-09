@@ -8,18 +8,17 @@ If you have several sequences, you can :
 - change the name and/or path of the repository seq_test in loop_souchier.sh to match yours
 - put your sequences in seq_test
 
+
 If you have one sequence, you can launch main_multi.py on it. 
 
-Here are the arguments you can use : 
 
-  Argument		Description				                        Default value
---ratio, -r		ratio of cutting frequencies of enzyme pairs, must be > 1	3
---fragment, -f 		minimum number of interest fragments				0
---lenmin, -lmin		minimal size in base pair of interest fragments			200
---lenmax, -lmax		maximal size in base pair of interest fragments			800
---linear, -lin		linear genome					False
---tab_supp, -t 		table with additional information on enzymes tested		nebuffer-performancechart-with-restrictionenzymes.csv
+Here are the arguments you can use (argument, description, default value): 
+- --ratio -r, ratio of cutting frequencies of enzyme pairs (must be > 1), 3
+- --fragment -f, minimum number of interest fragments, 0
+- --lenmin -lmin, minimal size in base pair of interest fragments, 200
+- --lenmax -lmax, maximal size in base pair of interest fragments, 800
+- --linear -lin, linear genome, False
+- --tab_supp -t, table with additional information on enzymes tested, nebuffer-performancechart-with-restrictionenzymes.csv
 
 
 In the repository, you will find the workflow chart and an overview of the created files and interactions.
-
