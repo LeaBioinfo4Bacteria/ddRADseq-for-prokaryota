@@ -12,7 +12,7 @@ If you have one sequence, you can launch main_multi.py on it.
 
 Here are the arguments you can use : 
 
-Argument		Description				                        Default value
+  Argument		Description				                        Default value
 --ratio, -r		ratio of cutting frequencies of enzyme pairs, must be > 1	3
 --fragment, -f 		minimum number of interest fragments				0
 --lenmin, -lmin		minimal size in base pair of interest fragments			200
