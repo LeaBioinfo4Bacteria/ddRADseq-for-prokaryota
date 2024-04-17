@@ -1,0 +1,314 @@
+,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+,Unnamed: 0_level_1,Unnamed: 1_level_1,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+0,AatII,,GACGT/C,CutSmart® Buffer,<10,50*,50,100,80°C,37°C,B,,,,λ DNA,
+1,AbaSI,,CNNNNNNNNNNN/NNNNNNNNNG,CutSmart® Buffer,25,50,50,100,65°C,25°C,C,,,,T4 wild-type phage DNA (fully ghmC-modified),e
+2,AccI,,GT/MKAC,CutSmart® Buffer,50,50,10,100,80°C,37°C,A,,,,λ DNA,
+3,Acc65I,,G/GTACC,NEBuffer™ 3.1,10,75*,100,25,65°C,37°C,A,,,,pBC4 DNA,
+4,AciI,,CCGC(-3/-1),CutSmart® Buffer,<10,25,100,100,65°C,37°C,A,,,,λ DNA,
+5,AclI,,AA/CGTT,CutSmart® Buffer,<10,<10,<10,100,No,37°C,B,,,,λ DNA,
+6,AcuI,,CTGAAG(16/14),CutSmart® Buffer + SAM,50,100,50,100,65°C,37°C,B,,,,λ DNA,"1, b, d"
+7,AfeI,,AGC/GCT,CutSmart® Buffer,25,100,25,100,65°C,37°C,B,,,,pXba DNA,
+8,AflII,,C/TTAAG,CutSmart® Buffer,50,100,10,100,65°C,37°C,A,,,,ΦX174 RF I DNA,
+9,AflIII,,A/CRYGT,NEBuffer™ 3.1,10,50,100,50,80°C,37°C,B,,,,λ DNA,
+10,AgeI §,,A/CCGGT,NEBuffer™ 1.1,100,75,25,75,65°C,37°C,C,,,,λ DNA,
+11,AgeI-HF®,,A/CCGGT,CutSmart® Buffer,100,50,10,100,65°C,37°C,A,,,,λ DNA,
+12,AhdI,,GACNNN/NNGTC,CutSmart® Buffer,25,25,10,100,65°C,37°C,A,,,,λ DNA,a
+13,AleI-v2,,CACNN/NNGTG,CutSmart® Buffer,<10,<10,<10,100,65°C,37°C,B,,,,,
+14,AluI,,AG/CT,CutSmart® Buffer,25,100,50,100,80°C,37°C,B,,,,λ DNA,b
+15,AlwI,,GGATC(4/5),CutSmart® Buffer,50,50,10,100,No,37°C,A,,,,λ DNA (dam-),"1, b, d"
+16,AlwNI,,CAGNNN/CTG,CutSmart® Buffer,10,100,50,100,80°C,37°C,A,,,,λ DNA,
+17,ApaI,,GGGCC/C,CutSmart® Buffer,25,25,<10,100,65°C,25°C,A,,,,pXba DNA,
+18,ApaLI,,G/TGCAC,CutSmart® Buffer,100,100,10,100,No,37°C,A,,,,λ DNA (HindIII digest),
+19,ApeKI,,G/CWGC,NEBuffer™ 3.1,25,50,100,10,No,75°C,B,,,,λ DNA,
+20,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+21,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+22,ApoI §,,R/AATTY,NEBuffer™ 3.1,10,75,100,75,80°C,50°C,A,,,,λ DNA,
+23,ApoI-HF,,R/AATTY,CutSmart® Buffer,10,100,10,100,80°C,37°C,B,,,,λ DNA,
+24,AscI,,GG/CGCGCC,CutSmart® Buffer,<10,10,10,100,80°C,37°C,A,,,,λ DNA,
+25,AseI,,AT/TAAT,NEBuffer™ 3.1,<10,50*,100,10,65°C,37°C,B,,,,λ DNA,3
+26,AsiSI,,GCGAT/CGC,CutSmart® Buffer,100,100,25,100,80°C,37°C,B,,,,XhoI digested pXba,"2, b"
+27,AvaI,,C/YCGRG,CutSmart® Buffer,<10,100,25,100,80°C,37°C,A,,,,λ DNA,
+28,AvaII,,G/GWCC,CutSmart® Buffer,50,75,10,100,80°C,37°C,A,,,,λ DNA,
+29,AvrII,,C/CTAGG,CutSmart® Buffer,100,50,50,100,No,37°C,B,,,,λ DNA (HindIII digest),
+30,BaeGI,,GKGCM/C,NEBuffer™ 3.1,75,75,100,25,80°C,37°C,A,,,,λ DNA,
+31,BaeI,,(10/15)ACNNNNGTAYC(12/7),CutSmart® Buffer + SAM,50,100,50,100,65°C,25°C,A,,,,λ DNA,e
+32,BamHI §,,G/GATCC,NEBuffer™ 3.1,75*,100*,100,100*,No,37°C,A,,,,λ DNA,3
+33,BamHI-HF®,,G/GATCC,CutSmart® Buffer,100,50,10,100,No,37°C,A,,,,λ DNA,
+34,BanI,,G/GYRCC,CutSmart® Buffer,10,25,<10,100,65°C,37°C,A,,,,λ DNA,1
+35,BanII,,GRGCY/C,CutSmart® Buffer,100,100,50,100,80°C,37°C,A,,,,λ DNA,2
+36,BbsI §,,GAAGAC(2/6),NEBuffer™ 2.1,100,100,25,75,65°C,37°C,B,,,,λ DNA,
+37,BbsI-HF®,,GAAGAC(2/6),CutSmart® Buffer,10,10,10,100,65°C,37°C,B,,,,λ DNA,
+38,BbvCI,,CCTCAGC(-5/-2),CutSmart® Buffer,10,100,50,100,No,37°C,B,,,,λ DNA,"1, a"
+39,BbvI,,GCAGC(8/12),CutSmart® Buffer,100,100,25,100,65°C,37°C,B,,,,pBR322 DNA,3
+40,BccI,,CCATC(4/5),CutSmart® Buffer,100,50,10,100,65°C,37°C,A,,,,pXba DNA,"3, b"
+41,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+42,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+43,BceAI,,ACGGC(12/14),NEBuffer™ 3.1,100*,100*,100,100*,65°C,37°C,A,,,,pBR322 DNA,1
+44,BcgI,,(10/12)CGANNNNNNTGC(12/10),NEBuffer™ 3.1 + SAM,10,75*,100,50*,65°C,37°C,A,,,,λ DNA,e
+45,BciVI,,GTATCC(6/5),CutSmart® Buffer,100,25,<10,100,80°C,37°C,C,,,,λ DNA,b
+46,BclI §,,T/GATCA,NEBuffer™ 3.1,50,100,100,75,No,50°C,A,,,,λ DNA (dam-),
+47,BclI-HF,,T/GATCA,CutSmart® Buffer,100,100,10,100,65°C,37°C,B,,,,λ DNA (dam-),
+48,BcoDI,,GTCTC(1/5),CutSmart® Buffer,50,75,75,100,No,37°C,B,,,,λ DNA,
+49,BfaI,,C/TAG,CutSmart® Buffer,<10,10,<10,100,80°C,37°C,B,,,,λ DNA,"2, b"
+50,BfuAI,,ACCTGC(4/8),NEBuffer™ 3.1,<10,25,100,10,65°C,50°C,B,,,,λ DNA,3
+51,BglI,,GCCNNNN/NGGC,NEBuffer™ 3.1,10,25,100,10,65°C,37°C,B,,,,λ DNA,
+52,BglII,,A/GATCT,NEBuffer™ 3.1,10,10,100,<10,No,37°C,A,,,,λ DNA,
+53,BlpI,,GC/TNAGC,CutSmart® Buffer,50,100,10,100,No,37°C,A,,,,λ DNA,d
+54,BmgBI,,CACGTC(-3/-3),NEBuffer™ 3.1,<10,10,100,10,65°C,37°C,B,,,,λ DNA,"3, b, d"
+55,BmrI,,ACTGGG(5/4),NEBuffer™ 2.1,75,100,75,100*,65°C,37°C,B,,,,λ DNA (HindIII digest),b
+56,BmtI §,,GCTAG/C,NEBuffer™ 3.1,100,100,100,100,65°C,37°C,B,,,,pXba DNA,2
+57,BmtI-HF®,,GCTAG/C,CutSmart® Buffer,50,100,10,100,65°C,37°C,B,,,,pXba DNA,
+58,BpmI,,CTGGAG(16/14),NEBuffer™ 3.1,75,100,100,100,65°C,37°C,B,,,,λ DNA,2
+59,BpuEI,,CTTGAG(16/14),CutSmart® Buffer + SAM,50*,100,50*,100,65°C,37°C,B,,,,λ DNA,d
+60,Bpu10I,,CCTNAGC(-5/-2),NEBuffer™ 3.1,10,25,100,25,80°C,37°C,B,,,,λ DNA,"3, b, d"
+61,BsaAI,,YAC/GTR,CutSmart® Buffer,100,100,100,100,No,37°C,C,,,,λ DNA,
+62,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+63,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+64,BsaBI,,GATNN/NNATC,CutSmart® Buffer,50,100,75,100,80°C,60°C,B,,,,λ DNA (dam-),2
+65,BsaHI,,GR/CGYC,CutSmart® Buffer,50,100,100,100,80°C,37°C,C,,,,λ DNA,
+66,BsaI §,,GGTCTC(1/5),CutSmart® Buffer,75*,75,100,100,65°C,37°C,B,,,,pXba DNA,3
+67,BsaI-HF®v2,,GGTCTC(1/5),CutSmart® Buffer,100,100,100,100,80°C,37°C,B,,,,pXba DNA,
+68,BsaJI,,C/CNNGG,CutSmart® Buffer,50,100,100,100,80°C,60°C,A,,,,λ DNA,
+69,BsaWI,,W/CCGGW,CutSmart® Buffer,10,100,50,100,80°C,60°C,A,,,,λ DNA,
+70,BsaXI,,(9/12)ACNNNNNCTCC(10/7),CutSmart® Buffer,50*,100*,10,100,No,37°C,C,,,,λ DNA,e
+71,BseRI,,GAGGAG(10/8),CutSmart® Buffer,100,100,75,100,80°C,37°C,A,,,,λ DNA,d
+72,BseYI,,CCCAGC(-5/-1),NEBuffer™ 3.1,10,50,100,50,80°C,37°C,B,,,,λ DNA,d
+73,BsgI,,GTGCAG(16/14),CutSmart® Buffer + SAM,25,50,25,100,65°C,37°C,B,,,,λ DNA,d
+74,BsiEI,,CGRY/CG,CutSmart® Buffer,25,50,<10,100,No,60°C,A,,,,λ DNA,
+75,BsiHKAI,,GWGCW/C,CutSmart® Buffer,25,100,100,100,No,65°C,A,,,,λ DNA,
+76,BsiWI §,,C/GTACG,NEBuffer™ 3.1,25,50*,100,25,65°C,55°C,B,,,,ΦX174 DNA,
+77,BsiWI-HF®,,C/GTACG,CutSmart® Buffer,50,100,10,100,No,37°C,B,,,,ΦX174 DNA,
+78,BslI,,CCNNNNN/NNGG,CutSmart® Buffer,50,75,100,100,No,55°C,A,,,,λ DNA,b
+79,BsmAI,,GTCTC(1/5),CutSmart® Buffer,50,100,100,100,No,55°C,B,,,,λ DNA,
+80,BsmBI-v2,,CGTCTC,NEBuffer™ 3.1,<10,50,100,25,80°C,55°C,B,,,,,
+81,BsmFI,,GGGAC(10/14),CutSmart® Buffer,25,50,50,100,80°C,65°C,A,,,,pBR322 DNA,1
+82,BsmI,,GAATGC(1/-1),CutSmart® Buffer,25,100,<10,100,80°C,65°C,A,,,,λ DNA,
+83,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+84,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+85,BsoBI,,C/YCGRG,CutSmart® Buffer,25,100,100,100,80°C,37°C,A,,,,λ DNA,
+86,BspCNI,,CTCAG(9/7),CutSmart® Buffer + SAM,100,75,10,100,80°C,25°C,A,,,,λ DNA,b
+87,BspDI,,AT/CGAT,CutSmart® Buffer,25,75,50,100,80°C,37°C,A,,,,λ DNA,
+88,BspEI,,T/CCGGA,NEBuffer™ 3.1,<10,10,100,<10,80°C,37°C,B,,,,λ DNA (dam-),
+89,BspHI,,T/CATGA,CutSmart® Buffer,10,50,25,100,80°C,37°C,A,,,,λ DNA,
+90,Bsp1286I,,GDGCH/C,CutSmart® Buffer,25,25,25,100,65°C,37°C,A,,,,λ DNA,3
+91,BspMI,,ACCTGC(4/8),NEBuffer™ 3.1,10,50*,100,10,65°C,37°C,B,,,,λ DNA,
+92,BspQI,,GCTCTTC(1/4),NEBuffer™ 3.1,100*,100*,100,100*,80°C,50°C,B,,,,λ DNA,3
+93,BsrBI,,CCGCTC(-3/-3),CutSmart® Buffer,50,100,100,100,80°C,37°C,A,,,,λ DNA,d
+94,BsrDI,,GCAATG(2/0),NEBuffer™ 2.1,10,100,75,25,80°C,65°C,A,,,,λ DNA,"3, d"
+95,BsrFI-v2,,R/CCGGY,CutSmart® Buffer,25,25,0,100,No,37°C,C,,,,pBR322 DNA,
+96,BsrGI §,,T/GTACA,NEBuffer™ 2.1,25,100,100,25,80°C,37°C,A,,,,λ DNA,
+97,BsrGI-HF®,,T/GTACA,CutSmart® Buffer,10,100,100,100,80°C,37°C,A,,,,λ DNA,
+98,BsrI,,ACTGG(1/-1),NEBuffer™ 3.1,<10,50,100,10,80°C,65°C,B,,,,ΦX174 DNA,b
+99,BssHII,,G/CGCGC,CutSmart® Buffer,100,100,100,100,65°C,50°C,B,,,,λ DNA,
+100,BssSI-v2,,CACGAG(-5/-1),CutSmart® Buffer,10,25,<10,100,No,37°C,B,,,,λ DNA,
+101,BstAPI,,GCANNNN/NTGC,CutSmart® Buffer,50,100,25,100,80°C,60°C,A,,,,λ DNA,b
+102,BstBI,,TT/CGAA,CutSmart® Buffer,75,100,10,100,No,65°C,A,,,,λ DNA,
+103,BstEII §,,G/GTNACC,NEBuffer™ 3.1,10,75*,100,75*,No,60°C,A,,,,λ DNA,3
+104,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+105,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+106,BstEII-HF®,,G/GTNACC,CutSmart® Buffer,<10,10,<10,100,No,37°C,A,,,,λ DNA,
+107,BstNI,,CC/WGG,NEBuffer™ 3.1,10,100,100,75,No,60°C,A,,,,λ DNA,a
+108,BstUI,,CG/CG,CutSmart® Buffer,50,100,25,100,No,60°C,A,,,,λ DNA,b
+109,BstXI,,CCANNNNN/NTGG,NEBuffer™ 3.1,<10,50,100,25,80°C,37°C,B,,,,λ DNA,3
+110,BstYI,,R/GATCY,NEBuffer™ 2.1,25,100,75,100,No,60°C,A,,,,λ DNA,
+111,BstZ17I-HF®,,GTATAC,CutSmart® Buffer,100,100,10,100,No,37°C,A,,,,λ DNA,
+112,Bsu36I,,CC/TNAGG,CutSmart® Buffer,25,100,100,100,80°C,37°C,C,,,,λ DNA (HindIII digest),b
+113,BtgI,,C/CRYGG,CutSmart® Buffer,50,100,100,100,80°C,37°C,B,,,,pBR322 DNA,
+114,BtgZI,,GCGATG(10/14),CutSmart® Buffer,10,25,<10,100,80°C,60°C,A,,,,λ DNA,"3, b, d"
+115,BtsCI,,GGATG(2/0),CutSmart® Buffer,10,100,25,100,80°C,50°C,B,,,,λ DNA,
+116,BtsIMutI,,CAGTG(2/0),CutSmart® Buffer,100,50,10,100,80°C,55°C,A,,,,pUC19 DNA,b
+117,BtsI-v2,,GCAGTG(2/0),CutSmart® Buffer,100,100,25,100,No,55°C,A,,,,λ DNA,
+118,Cac8I,,GCN/NGC,CutSmart® Buffer,50,75,100,100,65°C,37°C,B,,,,λ DNA,b
+119,ClaI,,AT/CGAT,CutSmart® Buffer,10,50,50,100,65°C,37°C,A,,,,λ DNA (dam-),
+120,CspCI,,(11/13)CAANNNNNGTGG(12/10),CutSmart® Buffer + SAM,10,100,10,100,65°C,37°C,A,,,,λ DNA,e
+121,CviAII,,C/ATG,CutSmart® Buffer,50,50,10,100,65°C,25°C,C,,,,λ DNA,
+122,CviKI-1,,RG/CY,CutSmart® Buffer,25,100,100,100,No,37°C,A,,,,pBR322 DNA,"1, b"
+123,CviQI,,G/TAC,NEBuffer™ 3.1,75,100*,100,75*,No,25°C,C,,,,λ DNA,b
+124,DdeI,,C/TNAG,CutSmart® Buffer,75,100,100,100,65°C,37°C,B,,,,λ DNA,
+125,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+126,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+127,DpnI,,GA/TC,CutSmart® Buffer,100,100,75,100,80°C,37°C,B,,,,pBR322 DNA (dam methylated),b
+128,DpnII,,/GATC,NEBuffer™ DpnII,25,25,100*,25,65°C,37°C,B,,,,λ DNA (dam-),
+129,DraI,,TTT/AAA,CutSmart® Buffer,75,75,50,100,65°C,37°C,A,,,,λ DNA,
+130,DraIII-HF®,,CACNNN/GTG,CutSmart® Buffer,<10,50,10,100,No,37°C,B,,,,λ DNA,b
+131,DrdI,,GACNNNN/NNGTC,CutSmart® Buffer,25,50,10,100,65°C,37°C,A,,,,pUC19 DNA,3
+132,EaeI,,Y/GGCCR,CutSmart® Buffer,10,50,<10,100,65°C,37°C,A,,,,λ DNA,b
+133,EagI §,,C/GGCCG,NEBuffer™ 3.1,10,25,100,10,65°C,37°C,B,,,,pXba DNA,
+134,EagI-HF®,,C/GGCCG,CutSmart® Buffer,25,100,100,100,65°C,37°C,B,,,,pXba DNA,
+135,EarI,,CTCTTC(1/4),CutSmart® Buffer,50,10,<10,100,65°C,37°C,B,,,,λ DNA,"b, d"
+136,EciI,,GGCGGA(11/9),CutSmart® Buffer,100,50,50,100,65°C,37°C,A,,,,λ DNA,2
+137,Eco53kI,,GAG/CTC,CutSmart® Buffer,100,100,<10,100,65°C,37°C,A,,,,pXba DNA,"3, b"
+138,EcoNI,,CCTNN/NNNAGG,CutSmart® Buffer,50,100,75,100,65°C,37°C,A,,,,λ DNA,b
+139,EcoO109I,,RG/GNCCY,CutSmart® Buffer,50,100,50,100,65°C,37°C,A,,,,λ DNA (HindIII digest),3
+140,EcoP15I,,CAGCAG(25/27),NEBuffer™ 3.1 + ATP,75,100,100,100,65°C,37°C,A,,,,pUC19 DNA,e
+141,EcoRI §,,G/AATTC,NEBuffer™ EcoRI,25,100*,50,50*,65°C,37°C,C,,,,λ DNA,
+142,EcoRI-HF®,,G/AATTC,CutSmart® Buffer,10,100,<10,100,65°C,37°C,C,,,,λ DNA,
+143,EcoRV §,,GAT/ATC,NEBuffer™ 3.1,10,50,100,10,80°C,37°C,A,,,,λ DNA,
+144,EcoRV-HF®,,GAT/ATC,CutSmart® Buffer,25,100,100,100,65°C,37°C,B,,,,λ DNA,
+145,Esp3I,,CGTCTC(1/5),CutSmart® Buffer,100,100,<10,100,65°C,37°C,B,,,,λ DNA,
+146,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+147,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+148,FatI,,/CATG,NEBuffer™ 2.1,10,100,50,50,80°C,55°C,A,,,,pUC19 DNA,
+149,FauI,,CCCGC(4/6),CutSmart® Buffer,100,50,10,100,65°C,55°C,A,,,,λ DNA,"3, b, d"
+150,Fnu4HI,,GC/NGC,CutSmart® Buffer,<10,<10,<10,100,No,37°C,A,,,,λ DNA,a
+151,FokI,,GGATG(9/13),CutSmart® Buffer,100,100,75,100,65°C,37°C,A,,,,λ DNA,"3, b, d"
+152,FseI,,GGCCGG/CC,CutSmart® Buffer,100,75,<10,100,65°C,37°C,B,,,,pBC4 DNA,
+153,FspEI,,CC(12/16),CutSmart® Buffer,<10,<10,<10,100,80°C,37°C,B,,,,pBR322 (dcm+) DNA,"1, e"
+154,FspI,,TGC/GCA,CutSmart® Buffer,10,100,10,100,No,37°C,C,,,,λ DNA,b
+155,HaeII,,RGCGC/Y,CutSmart® Buffer,25,100,10,100,80°C,37°C,A,,,,λ DNA,
+156,HaeIII,,GG/CC,CutSmart® Buffer,50,100,25,100,80°C,37°C,A,,,,λ DNA,
+157,HgaI,,GACGC(5/10),NEBuffer™ 1.1,100,100,25,100,65°C,37°C,A,,,,ΦX174 DNA,1
+158,HhaI,,GCG/C,CutSmart® Buffer,25,100,100,100,65°C,37°C,A,,,,λ DNA,
+159,HincII,,GTY/RAC,NEBuffer™ 3.1,25,100,100,100,65°C,37°C,B,,,,λ DNA,
+160,HindIII §,,A/AGCTT,NEBuffer™ 2.1,25,100,50,50,80°C,37°C,B,,,,λ DNA,2
+161,HindIII-HF®,,A/AGCTT,CutSmart® Buffer,10,100,10,100,80°C,37°C,B,,,,λ DNA,
+162,HinfI,,G/ANTC,CutSmart® Buffer,50,100,100,100,80°C,37°C,A,,,,λ DNA,
+163,HinP1I,,G/CGC,CutSmart® Buffer,100,100,100,100,65°C,37°C,A,,,,λ DNA,
+164,HpaI,,GTT/AAC,CutSmart® Buffer,<10,75*,25,100,No,37°C,A,,,,λ DNA,1
+165,HpaII,,C/CGG,CutSmart® Buffer,100,50,<10,100,80°C,37°C,A,,,,λ DNA,
+166,HphI,,GGTGA(8/7),CutSmart® Buffer,50,50,<10,100,65°C,37°C,B,,,,λ DNA,"b, d"
+167,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+168,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+169,HpyAV,,CCTTC(6/5),CutSmart® Buffer,100,100,25,100,65°C,37°C,,,,,λ DNA,"3, b, d"
+170,HpyCH4III,,ACN/GT,CutSmart® Buffer,100,25,<10,100,65°C,37°C,A,,,,λ DNA,b
+171,HpyCH4IV,,A/CGT,CutSmart® Buffer,100,50,25,100,65°C,37°C,A,,,,pUC19 DNA,
+172,HpyCH4V,,TG/CA,CutSmart® Buffer,50,50,25,100,65°C,37°C,A,,,,λ DNA,
+173,Hpy99I,,CGWCG/,CutSmart® Buffer,50,10,<10,100,65°C,37°C,A,,,,λ DNA,
+174,Hpy188I,,TCN/GA,CutSmart® Buffer,25,100,50,100,65°C,37°C,A,,,,pBR322 DNA,"1, b"
+175,Hpy166II,,GTN/NAC,CutSmart® Buffer,100,100,50,100,65°C,37°C,C,,,,pBR322 DNA,
+176,Hpy188III,,TC/NNGA,CutSmart® Buffer,100,100,10,100,65°C,37°C,B,,,,pUC19 DNA,"3, b"
+177,I-CeuI,,TAACTATAACGGTCCTAAGGTAGCGAA(-9/-13),CutSmart® Buffer,10,10,10,100,65°C,37°C,B,,,,pBHS ScaI-linearized Control Plasmid,
+178,I-SceI,,TAGGGATAACAGGGTAAT(-9/-13),CutSmart® Buffer,10,50,25,100,65°C,37°C,B,,,,pGPS2 NotI-linearized Control Plasmid,
+179,KasI,,G/GCGCC,CutSmart® Buffer,50,100,50,100,65°C,37°C,B,,,,pBR322 DNA,3
+180,KpnI §,,GGTAC/C,NEBuffer™ 1.1,100,75,<10,50*,No,37°C,A,,,,pXba DNA,1
+181,KpnI-HF®,,GGTAC/C,CutSmart® Buffer,100,25,<10,100,No,37°C,A,,,,pXba DNA,
+182,LpnPI,,CCDG(10/14),CutSmart® Buffer,<10,<10,<10,100,65°C,37°C,B,,,,pBR322 (dcm+) DNA,"1, e"
+183,MboI,,/GATC,CutSmart® Buffer,75,100,100,100,65°C,37°C,A,,,,λ DNA (dam-),
+184,MboII,,GAAGA(8/7),CutSmart® Buffer,100*,100,50,100,65°C,37°C,C,,,,λ DNA (dam-),b
+185,MfeI §,,C/AATTG,CutSmart® Buffer,75,50,10,100,No,37°C,A,,,,λ DNA,2
+186,MfeI-HF®,,C/AATTG,CutSmart® Buffer,75,25,<10,100,No,37°C,A,,,,λ DNA,
+187,MluCI,,/AATT,CutSmart® Buffer,100,10,10,100,No,37°C,A,,,,λ DNA,
+188,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+189,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+190,MluI §,,A/CGCGT,NEBuffer™ 3.1,10,50,100,25,80°C,37°C,A,,,,λ DNA,
+191,MluI-HF®,,A/CGCGT,CutSmart® Buffer,25,100,100,100,No,37°C,A,,,,λ DNA,
+192,MlyI,,GAGTC(5/5),CutSmart® Buffer,50,50,10,100,65°C,37°C,A,,,,λ DNA,"b, d"
+193,MmeI,,TCCRAC(20/18),CutSmart® Buffer + SAM,50,100,50,100,65°C,37°C,B,,,,ΦX174 RF I DNA,"b, c"
+194,MnlI,,CCTC(7/6),CutSmart® Buffer,75,100,50,100,65°C,37°C,B,,,,λ DNA,b
+195,MscI,,TGG/CCA,CutSmart® Buffer,25,100,100,100,80°C,37°C,C,,,,λ DNA,
+196,MseI,,T/TAA,CutSmart® Buffer,75,100,75,100,65°C,37°C,A,,,,λ DNA,
+197,MslI,,CAYNN/NNRTG,CutSmart® Buffer,50,50,<10,100,80°C,37°C,A,,,,λ DNA,
+198,MspA1I,,CMG/CKG,CutSmart® Buffer,10,50,10,100,65°C,37°C,B,,,,λ DNA,
+199,MspI,,C/CGG,CutSmart® Buffer,75,100,50,100,No,37°C,A,,,,λ DNA,
+200,MspJI,,CNNR(9/13),CutSmart® Buffer,<10,<10,<10,100,65°C,37°C,B,,,,pBR322 (dcm+) DNA,"1, e"
+201,MwoI,,GCNNNNN/NNGC,CutSmart® Buffer,<10,100,100,100,No,60°C,B,,,,λ DNA,
+202,NaeI,,GCC/GGC,CutSmart® Buffer,25,25,<10,100,No,37°C,A,,,,pXba DNA,b
+203,NarI,,GG/CGCC,CutSmart® Buffer,100,100,10,100,65°C,37°C,A,,,,pXba DNA,
+204,Nb.BbvCI,,CCTCAGC,CutSmart® Buffer,25,100,100,100,80°C,37°C,A,,,,supercoiled plasmid DNA,e
+205,Nb.BsmI,,GAATGC,NEBuffer™ 3.1,<10,50,100,10,80°C,65°C,A,,,,supercoiled plasmid pBR322 DNA,e
+206,Nb.BsrDI,,GCAATG,CutSmart® Buffer,25,100,100,100,80°C,65°C,A,,,,supercoiled pUC19 DNA,e
+207,Nb.BssSI,,CACGAG,NEBuffer™ 3.1,10,100,100,25,No,37°C,B,,,,supercoiled pUC19 DNA,e
+208,Nb.BtsI,,GCAGTG,CutSmart® Buffer,75,100,75,100,80°C,37°C,A,,,,supercoiled pUC101 DNA (dam-/dcm-),e
+209,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+210,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+211,NciI,,CC/SGG,CutSmart® Buffer,100,25,10,100,No,37°C,A,,,,λ DNA,b
+212,NcoI §,,C/CATGG,NEBuffer™ 3.1,100,100,100,100,80°C,37°C,A,,,,λ DNA,
+213,NcoI-HF®,,C/CATGG,CutSmart® Buffer,50,100,10,100,80°C,37°C,B,,,,λ DNA,
+214,NdeI,,CA/TATG,CutSmart® Buffer,75,100,100,100,65°C,37°C,A,,,,λ DNA,
+215,NgoMIV,,G/CCGGC,CutSmart® Buffer,100,50,10,100,No,37°C,A,,,,pXba DNA,1
+216,NheI §,,G/CTAGC,NEBuffer™ 2.1,100,100,10,100,65°C,37°C,C,,,,λ DNA (HindIII digest),
+217,NheI-HF®,,G/CTAGC,CutSmart® Buffer,100,25,10,100,80°C,37°C,C,,,,λ DNA (HindIII digest),
+218,NlaIII,,CATG/,CutSmart® Buffer,<10,<10,<10,100,65°C,37°C,B,,,,ΦX174 RF I DNA,
+219,NlaIV,,GGN/NCC,CutSmart® Buffer,10,10,10,100,65°C,37°C,B,,,,pBR322 DNA,
+220,NmeAIII,,GCCGAG(21/19),CutSmart® Buffer + SAM,10,10,<10,100,65°C,37°C,B,,,,ΦX174 RF I DNA,c
+221,NotI §,,GC/GGCCGC,NEBuffer™ 3.1,<10,50,100,25,65°C,37°C,C,,,,pBC4 DNA,
+222,NotI-HF®,,GC/GGCCGC,CutSmart® Buffer,25,100,25,100,65°C,37°C,A,,,,pBC4 DNA,
+223,NruI §,,TCG/CGA,NEBuffer™ 3.1,<10,10,100,10,No,37°C,A,,,,λ DNA,b
+224,NruI-HF®,,TCG/CGA,CutSmart® Buffer,0,25,50,100,No,37°C,A,,,,λ DNA,
+225,NsiI §,,ATGCA/T,NEBuffer™ 3.1,10,75,100,25,65°C,37°C,B,,,,λ DNA,
+226,NsiI-HF®,,ATGCA/T,CutSmart® Buffer,<10,20,<10,100,80°C,37°C,B,,,,λ DNA,
+227,NspI,,RCATG/Y,CutSmart® Buffer,100,100,<10,100,65°C,37°C,A,,,,λ DNA,
+228,Nt.AlwI,,GGATC(4/-5),CutSmart® Buffer,10,100,100,100,80°C,37°C,A,,,,pUC101 DNA (dam-/dcm-),e
+229,Nt.BbvCI,,CCTCAGC(-5/-7),CutSmart® Buffer,50,100,10,100,80°C,37°C,A,,,,supercoiled plasmid DNA,e
+230,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+231,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+232,Nt.BsmAI,,GTCTC(1/-5),CutSmart® Buffer,100,50,10,100,65°C,37°C,A,,,,supercoiled plasmid DNA,e
+233,Nt.BspQI,,GCTCTTC(1/-7),NEBuffer™ 3.1,<10,25,100,10,80°C,50°C,B,,,,supercoiled pUC19 DNA,e
+234,Nt.BstNBI,,GAGTC(4/-5),NEBuffer™ 3.1,0,10,100,10,80°C,55°C,A,,,,T7 DNA,e
+235,Nt.CviPII,,(0/-1)CCD,CutSmart® Buffer,10,100,25,100,65°C,37°C,A,,,,pUC19 DNA,e
+236,PacI,,TTAAT/TAA,CutSmart® Buffer,100,75,10,100,65°C,37°C,A,,,,pNEB193 DNA,
+237,PaeR7I,,C/TCGAG,CutSmart® Buffer,25,100,10,100,No,37°C,A,,,,λ DNA (HindIII digest),
+238,PciI,,A/CATGT,NEBuffer™ 3.1,50,75,100,50*,80°C,37°C,B,,,,pXba DNA,
+239,PflFI,,GACN/NNGTC,CutSmart® Buffer,25,100,25,100,65°C,37°C,A,,,,pBC4 DNA,b
+240,PflMI,,CCANNNN/NTGG,NEBuffer™ 3.1,0,100,100,50,65°C,37°C,A,,,,λ DNA,"3, b, d"
+241,PI-PspI,,TGGCAAACAGCTATTATGGGTATTATGGGT(-13/-17),NEBuffer™ PI-PspI + BSA,10,10,10,10,No,65°C,B,,,,pAKR7 XmnI-linearized Control Plasmid,
+242,PI-SceI,,ATCTATGTCGGGTGCGGAGAAAGAGGTAAT(-15/-19),NEBuffer™ PI-SceI + BSA,10,10,10,10,65°C,37°C,B,,,,pBSvdeX XmnI-linearized Control Plasmid,
+243,PleI,,GAGTC(4/5),CutSmart® Buffer,25,50,25,100,65°C,37°C,A,,,,λ DNA,"b, d"
+244,PluTI,,GGCGC/C,CutSmart® Buffer,100,25,<10,100,65°C,37°C,A,,,,pXba DNA,b
+245,PmeI,,GTTT/AAAC,CutSmart® Buffer,<10,50,10,100,65°C,37°C,A,,,,λ DNA,
+246,PmlI,,CAC/GTG,CutSmart® Buffer,100,50,<10,100,65°C,37°C,A,,,,λ DNA (HindIII digest) DNA,
+247,PpuMI,,RG/GWCCY,CutSmart® Buffer,<10,<10,<10,100,No,37°C,B,,,,λ DNA (HindIII digest),
+248,PshAI,,GACNN/NNGTC,CutSmart® Buffer,25,50,10,100,65°C,37°C,A,,,,λ DNA,
+249,PsiI-v2,,TTA/TAA,CutSmart® Buffer,25,50,10,100,65°C,37°C,B,,,,λ DNA,3
+250,PspGI,,/CCWGG,CutSmart® Buffer,25,100,50,100,No,75°C,A,,,,T7 DNA,3
+251,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+252,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+253,PspOMI,,G/GGCCC,CutSmart® Buffer,10,10,<10,100,65°C,37°C,B,,,,pXba DNA,
+254,PspXI,,VC/TCGAGB,CutSmart® Buffer,<10,100,25,100,No,37°C,B,,,,λ DNA (HindIII digest),
+255,PstI §,,CTGCA/G,NEBuffer™ 3.1,75,75,100,50*,80°C,37°C,C,,,,λ DNA,
+256,PstI-HF®,,CTGCA/G,CutSmart® Buffer,10,75,50,100,No,37°C,C,,,,λ DNA,
+257,PvuI §,,CGAT/CG,NEBuffer™ 3.1,<10,25,100,<10,No,37°C,B,,,,pXba DNA,
+258,PvuI-HF®,,CGAT/CG,CutSmart® Buffer,25,100,100,100,No,37°C,B,,,,pXba DNA,
+259,PvuII §,,CAG/CTG,NEBuffer™ 3.1,50,100,100,100*,No,37°C,B,,,,λ DNA,
+260,PvuII-HF®,,CAG/CTG,CutSmart® Buffer,<10,<10,<10,100,No,37°C,B,,,,λ DNA,
+261,RsaI,,GT/AC,CutSmart® Buffer,25,50,<10,100,No,37°C,A,,,,λ DNA,
+262,RsrII,,CG/GWCCG,CutSmart® Buffer,25,75,10,100,65°C,37°C,C,,,,λ DNA,
+263,SacI §,,GAGCT/C,NEBuffer™ 1.1,100,50,10,100,65°C,37°C,A,,,,λ DNA (HindIII digest),
+264,SacI-HF®,,GAGCT/C,CutSmart® Buffer,10,50,<10,100,65°C,37°C,A,,,,λ DNA (HindIII digest),
+265,SacII,,CCGC/GG,CutSmart® Buffer,10,100,10,100,65°C,37°C,A,,,,pXba DNA,
+266,SalI §,,G/TCGAC,NEBuffer™ 3.1,<10,<10,100,<10,65°C,37°C,A,,,,λ DNA (HindIII digest),
+267,SalI-HF®,,G/TCGAC,CutSmart® Buffer,10,100,100,100,65°C,37°C,A,,,,λ DNA (HindIII digest),
+268,SapI,,GCTCTTC(1/4),CutSmart® Buffer,75,50,<10,100,65°C,37°C,B,,,,λ DNA,
+269,Sau3AI,,/GATC,NEBuffer™ 1.1,100,50,10,100,65°C,37°C,A,,,,λ DNA,b
+270,Sau96I,,G/GNCC,CutSmart® Buffer,50,100,100,100,65°C,37°C,A,,,,λ DNA,
+271,SbfI §,,CCTGCA/GG,CutSmart® Buffer,50,25,<10,100,80°C,37°C,A,,,,λ DNA,3
+272,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+273,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+274,SbfI-HF®,,CCTGCA/GG,CutSmart® Buffer,50,25,<10,100,80°C,37°C,B,,,,λ DNA,
+275,ScaI-HF®,,AGT/ACT,CutSmart® Buffer,100,100,10,100,80°C,37°C,B,,,,λ DNA,
+276,ScrFI,,CC/NGG,CutSmart® Buffer,100,100,100,100,65°C,37°C,C,,,,λ DNA,"2, a"
+277,SexAI,,A/CCWGGT,CutSmart® Buffer,100,75,50,100,65°C,37°C,A,,,,pBC4 DNA (dcm-),"3, b, d"
+278,SfaNI,,GCATC(5/9),NEBuffer™ 3.1,<10,75,100,25,65°C,37°C,B,,,,ΦX174 RF I DNA,"3, b"
+279,SfcI,,C/TRYAG,CutSmart® Buffer,75,50,25,100,65°C,37°C,B,,,,λ DNA,3
+280,SfiI,,GGCCNNNN/NGGCC,CutSmart® Buffer,25,100,50,100,No,50°C,C,,,,pXba DNA,
+281,SfoI,,GGC/GCC,CutSmart® Buffer,50,100,100,100,No,37°C,B,,,,λ DNA (HindIII digest),
+282,SgrAI,,CR/CCGGYG,CutSmart® Buffer,100,100,10,100,65°C,37°C,A,,,,λ DNA,1
+283,SmaI,,CCC/GGG,CutSmart® Buffer,<10,<10,<10,100,65°C,25°C,B,,,,λ DNA (HindIII digest),b
+284,SmlI,,C/TYRAG,CutSmart® Buffer,25,75,25,100,No,55°C,A,,,,λ DNA,b
+285,SnaBI,,TAC/GTA,CutSmart® Buffer,50*,50,10,100,80°C,37°C,A,,,,T7 DNA,1
+286,SpeI §,,A/CTAGT,CutSmart® Buffer,75,100,25,100,80°C,37°C,C,,,,pXba-XbaI DNA,
+287,SpeI-HF®,,A/CTAGT,CutSmart® Buffer,25,50,10,100,80°C,37°C,C,,,,pXba-XbaI DNA,
+288,SphI §,,GCATG/C,NEBuffer™ 2.1,100,100,50,100,65°C,37°C,B,,,,λ DNA,2
+289,SphI-HF®,,GCATG/C,CutSmart® Buffer,50,25,10,100,65°C,37°C,B,,,,λ DNA,
+290,SrfI,,GCCC/GGGC,CutSmart® Buffer,10,50,0,100,65°C,37°C,B,,,,pNEB193-SrfI DNA,
+291,SspI §,,AAT/ATT,NEBuffer™ SspI,50,100,50,50,65°C,37°C,C,,,,λ DNA,
+292,SspI-HF®,,AAT/ATT,CutSmart® Buffer,25,100,<10,100,65°C,37°C,B,,,,λ DNA,
+293,Enzyme,Enzyme,Sequence,Supplied NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,% Activity in NEBuffer,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+294,,,Sequence,Supplied NEBuffer,1.1,2.1,3.1,CutSmart,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+295,StuI,,AGG/CCT,CutSmart® Buffer,50,100,50,100,No,37°C,A,,,,λ DNA,
+296,StyD4I,,/CCNGG,CutSmart® Buffer,10,100,100,100,65°C,37°C,B,,,,λ DNA,
+297,StyI-HF®,,C/CWWGG,CutSmart® Buffer,25,100,25,100,65°C,37°C,A,,,,λ DNA,
+298,SwaI,,ATTT/AAAT,NEBuffer™ 3.1,10,10,100,10,65°C,25°C,B,,,,pXba DNA,"b, d"
+299,TaqI-v2,,T/CGA,CutSmart® Buffer,50,100,50,100,No,65°C,B,,,,λ DNA,
+300,TfiI,,G/AWTC,CutSmart® Buffer,50,100,100,100,No,65°C,C,,,,λ DNA,
+301,TseI,,G/CWGC,CutSmart® Buffer,75,100,100,100,No,65°C,B,,,,λ DNA,3
+302,Tsp45I,,/GTSAC,CutSmart® Buffer,100,50,<10,100,No,65°C,A,,,,λ DNA,
+303,TspMI,,C/CCGGG,CutSmart® Buffer,50*,75*,50*,100,No,75°C,B,,,,pUCAdeno plasmid DNA,d
+304,TspRI,,NNCASTGNN/,CutSmart® Buffer,25,50,25,100,No,65°C,B,,,,λ DNA,
+305,Tth111I,,GACN/NNGTC,CutSmart® Buffer,25,100,25,100,No,65°C,B,,,,pBC4 DNA,b
+306,XbaI,,T/CTAGA,CutSmart® Buffer,<10,100,75,100,65°C,37°C,A,,,,λ DNA (dam-/Hind III digest),
+307,XcmI,,CCANNNNN/NNNNTGG,NEBuffer™ 2.1,10,100,25,100,65°C,37°C,C,,,,λ DNA,2
+308,XhoI,,C/TCGAG,CutSmart® Buffer,75,100,100,100,65°C,37°C,A,,,,λ DNA (HindIII digest),b
+309,XmaI,,C/CCGGG,CutSmart® Buffer,25,50,<10,100,65°C,37°C,A,,,,pXba DNA,3
+310,XmnI,,GAANN/NNTTC,CutSmart® Buffer,50,75,<10,100,65°C,37°C,A,,,,λ DNA,b
+311,ZraI,,GAC/GTC,CutSmart® Buffer,100,25,10,100,80°C,37°C,B,,,,λ DNA,
